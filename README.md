@@ -58,19 +58,41 @@ href="https://github.com/Bandah-E-Ali/edith-md/graphs/commit-activity"><img heig
 <div align="center">
   <table>
     <tr>
-      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/Bandah-E-Ali/edith-md" target="_blank"><img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/></a></td>
-      <td><a href="https://host.talkdrove.com/share-bot/47" target="_blank"><img src="https://img.shields.io/badge/TalkDrove-A52A2A?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Heroku badge -->
+      <td><a href="https://dashboard.heroku.com/new-app?template=https://github.com/Bandah-E-Ali/Edith-MD" target="_blank">
+        <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=000000&color=0000FF"/>
+      </a></td>
+      
+      <!-- Updated URL badge -->
+      <td><a href="https://github.com/Bandah-E-Ali/Edith-MD/archive/refs/heads/main.zip" target="_blank">
+        <img src="https://img.shields.io/badge/Download-6C63FF?style=for-the-badge&logo=github&logoColor=white&labelColor=000000"/>
+      </a></td>
     </tr>
     <tr>
-      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Bandah-E-Ali/edith-md" target="_blank"><img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/></a></td>
-      <td><a href="https://railway.app/new" target="_blank"><img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Koyeb -->
+      <td><a href="https://app.koyeb.com/services/deploy?type=git&repository=Bandah-E-Ali/Edith-MD" target="_blank">
+        <img src="https://img.shields.io/badge/Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white&labelColor=000000"/>
+      </a></td>
+      
+      <!-- Railway -->
+      <td><a href="https://railway.app/new" target="_blank">
+        <img src="https://img.shields.io/badge/Railway-FF8700?style=for-the-badge&logo=railway&logoColor=white&labelColor=000000"/>
+      </a></td>
     </tr>
     <tr>
-      <td><a href="https://dashboard.render.com/web/new" target="_blank"><img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/></a></td>
-      <td><a href="https://zone.id/" target="_blank"><img src="https://img.shields.io/badge/Free VPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/></a></td>
+      <!-- Render -->
+      <td><a href="https://dashboard.render.com/web/new" target="_blank">
+        <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white&labelColor=000000&color=00ffaa"/>
+      </a></td>
+
+      <!-- New Panel (Example: Free VPS or any custom service) -->
+      <td><a href="https:///" target="_blank">
+        <img src="https://img.shields.io/badge/FreeVPS-CC00FF?style=for-the-badge&logo=huggingface&logoColor=white&labelColor=000000"/>
+      </a></td>
     </tr>
   </table>
 </div>
+
 
 -------------
 
