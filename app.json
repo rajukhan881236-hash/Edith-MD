@@ -150,6 +150,14 @@
       "description": "Set true to mark all messages as read.",
       "required": true,
       "value": "false"
+    },
+    "HEROKU_API": {
+      "description": "Heroku API token",
+      "required": true
+    },
+    "HEROKU_APP": {
+      "description": "Heroku App name",
+      "required": true
     }
   },
   "buildpacks": [
