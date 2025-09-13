@@ -29,7 +29,7 @@
     "MENU_IMAGE_URL": {
       "description": "Add image URL for menu and mention replies.",
       "required": true,
-      "value": "https://h.uguu.se/gKzTwMZh.jpg"
+      "value": "https://i.ibb.co/NgXkGTGF/shaban-md.jpg"
     },
     "PREFIX": {
       "description": "Paste your bot prefix. Avoid null prefix.",
