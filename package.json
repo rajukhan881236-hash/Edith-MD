@@ -9,7 +9,7 @@
     "restart": "pm2 restart EDITH-MD"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "6.7.19",
+    "@whiskeysockets/baileys": "github:Drayyyxd/XD-Baileys",
     "axios": "^1.7.9",
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
@@ -33,7 +33,7 @@
     "fs-extra": "^11.1.0",
     "google-tts-api": "^2.0.2",
     "javascript-obfuscator": "^4.0.0",
-    "jimp": "^1.6.0",
+    "jimp": "latest",
     "megajs": "^1.1.0",
     "mongoose": "^8.0.0",
     "node-cache": "^5.1.1",
