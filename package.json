@@ -11,7 +11,7 @@
   "dependencies": {
     "@whiskeysockets/baileys": "6.7.19",
     "axios": "^1.7.9",
-    "@adiwajshing/keyed-db": "latest",
+    "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.0",
     "acrcloud": "^1.4.0",
