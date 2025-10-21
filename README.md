@@ -48,7 +48,7 @@ href="https://github.com/Bandah-E-Ali/edith-md/graphs/commit-activity"><img heig
 
   **🪀 SESSION WEB 8-AUG**
   
-  <a href='https://edith-pair-code.onrender.com' target="_blank">
+  <a href='https://edith-pair.zone.id' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE-FF0000?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a></br>
 
